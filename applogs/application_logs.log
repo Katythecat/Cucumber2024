@@ -1,0 +1,114 @@
+2024-02-05 22:21:18 [TestNG-PoolService-2] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:21:18 [TestNG-PoolService-4] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:21:18 [TestNG-PoolService-5] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:21:18 [TestNG-PoolService-3] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:21:18 [TestNG-PoolService-1] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:21:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Navigating to the OpenCart login page
+2024-02-05 22:21:27 [TestNG-PoolService-5] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:21:27 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:21:27 [TestNG-PoolService-4] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:21:27 [TestNG-PoolService-2] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:21:28 [TestNG-PoolService-3] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:21:28 [TestNG-PoolService-2] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:21:28 [TestNG-PoolService-4] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:21:28 [TestNG-PoolService-2] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:21:28 [TestNG-PoolService-4] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:21:28 [TestNG-PoolService-3] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:21:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Verifying successful login
+2024-02-05 22:21:28 [TestNG-PoolService-3] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:21:28 [TestNG-PoolService-1] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:26:15 [TestNG-PoolService-2] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:26:15 [TestNG-PoolService-3] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:26:15 [TestNG-PoolService-1] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:26:15 [TestNG-PoolService-5] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:26:15 [TestNG-PoolService-4] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:26:23 [TestNG-PoolService-1] INFO  pages.LoginPage - Navigating to the OpenCart login page
+2024-02-05 22:26:24 [TestNG-PoolService-5] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:26:24 [TestNG-PoolService-3] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:26:24 [TestNG-PoolService-4] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:26:24 [TestNG-PoolService-2] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:26:24 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:26:24 [TestNG-PoolService-3] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:26:25 [TestNG-PoolService-4] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:26:25 [TestNG-PoolService-2] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:26:25 [TestNG-PoolService-3] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:26:25 [TestNG-PoolService-4] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:26:25 [TestNG-PoolService-2] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:26:25 [TestNG-PoolService-1] INFO  pages.LoginPage - Verifying successful login
+2024-02-05 22:26:25 [TestNG-PoolService-1] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:34:27 [TestNG-PoolService-4] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:34:27 [TestNG-PoolService-3] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:34:27 [TestNG-PoolService-2] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:34:27 [TestNG-PoolService-5] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:34:27 [TestNG-PoolService-1] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:34:36 [TestNG-PoolService-1] INFO  pages.LoginPage - Navigating to the OpenCart login page
+2024-02-05 22:34:37 [TestNG-PoolService-4] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:34:37 [TestNG-PoolService-3] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:34:37 [TestNG-PoolService-5] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:34:37 [TestNG-PoolService-2] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:34:37 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:34:37 [TestNG-PoolService-2] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:34:37 [TestNG-PoolService-4] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:34:37 [TestNG-PoolService-3] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:34:38 [TestNG-PoolService-2] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:34:38 [TestNG-PoolService-4] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:34:38 [TestNG-PoolService-3] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:34:38 [TestNG-PoolService-1] INFO  pages.LoginPage - Verifying successful login
+2024-02-05 22:34:38 [TestNG-PoolService-1] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:36:56 [TestNG-PoolService-2] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:36:56 [TestNG-PoolService-3] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:36:56 [TestNG-PoolService-1] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:36:56 [TestNG-PoolService-5] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:36:56 [TestNG-PoolService-4] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:37:01 [TestNG-PoolService-1] INFO  pages.LoginPage - Navigating to the OpenCart login page
+2024-02-05 22:37:03 [TestNG-PoolService-3] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:37:03 [TestNG-PoolService-5] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:37:04 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:37:04 [TestNG-PoolService-2] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:37:04 [TestNG-PoolService-4] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:37:04 [TestNG-PoolService-3] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:37:04 [TestNG-PoolService-2] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:37:04 [TestNG-PoolService-3] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:37:04 [TestNG-PoolService-2] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:37:04 [TestNG-PoolService-4] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:37:05 [TestNG-PoolService-4] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:37:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Verifying successful login
+2024-02-05 22:37:05 [TestNG-PoolService-1] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:39:39 [TestNG-PoolService-4] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:39:39 [TestNG-PoolService-5] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:39:39 [TestNG-PoolService-3] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:39:39 [TestNG-PoolService-1] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:39:39 [TestNG-PoolService-2] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:39:46 [TestNG-PoolService-1] INFO  pages.LoginPage - Navigating to the OpenCart login page
+2024-02-05 22:39:47 [TestNG-PoolService-5] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:39:47 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:39:47 [TestNG-PoolService-4] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:39:47 [TestNG-PoolService-2] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:39:47 [TestNG-PoolService-3] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:39:47 [TestNG-PoolService-4] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:39:47 [TestNG-PoolService-4] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:39:48 [TestNG-PoolService-2] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:39:48 [TestNG-PoolService-3] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:39:48 [TestNG-PoolService-2] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:39:48 [TestNG-PoolService-3] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:39:48 [TestNG-PoolService-1] INFO  pages.LoginPage - Verifying successful login
+2024-02-05 22:39:48 [TestNG-PoolService-1] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:40:30 [TestNG-PoolService-1] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:40:30 [TestNG-PoolService-3] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:40:30 [TestNG-PoolService-4] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:40:30 [TestNG-PoolService-2] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:40:30 [TestNG-PoolService-5] INFO  pages.LoginPage - Setting up the WebDriver
+2024-02-05 22:40:37 [TestNG-PoolService-1] INFO  pages.LoginPage - Navigating to the OpenCart login page
+2024-02-05 22:40:38 [TestNG-PoolService-3] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:40:38 [TestNG-PoolService-4] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:40:38 [TestNG-PoolService-5] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:40:38 [TestNG-PoolService-1] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:40:38 [TestNG-PoolService-2] INFO  pages.LoginPage - Clicking on the login button
+2024-02-05 22:40:38 [TestNG-PoolService-4] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:40:39 [TestNG-PoolService-4] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:40:39 [TestNG-PoolService-3] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:40:39 [TestNG-PoolService-3] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:40:39 [TestNG-PoolService-2] INFO  pages.LoginPage - Verifying error message: Warning: No match for E-Mail Address and/or Password.
+2024-02-05 22:40:39 [TestNG-PoolService-2] INFO  pages.LoginPage - Tearing down the WebDriver
+2024-02-05 22:40:39 [TestNG-PoolService-1] INFO  pages.LoginPage - Verifying successful login
+2024-02-05 22:40:39 [TestNG-PoolService-1] INFO  pages.LoginPage - Tearing down the WebDriver
